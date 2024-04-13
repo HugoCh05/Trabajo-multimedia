@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tortuga_attack.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tortuga_ataque0000" x="0" y="0" width="1012" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0001" x="1112" y="0" width="1010" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0002" x="2222" y="0" width="1010" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0003" x="0" y="477" width="1008" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0004" x="1108" y="477" width="1003" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0005" x="2211" y="477" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0006" x="0" y="954" width="991" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0007" x="2211" y="477" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0008" x="1091" y="954" width="1000" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0009" x="2211" y="477" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0010" x="0" y="954" width="991" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0011" x="2211" y="477" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0012" x="1091" y="954" width="1000" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0013" x="2211" y="477" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0014" x="0" y="954" width="991" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0015" x="2191" y="954" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0016" x="2191" y="954" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0017" x="2191" y="954" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0018" x="2191" y="954" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0019" x="2191" y="954" width="995" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0020" x="0" y="1431" width="1056" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0021" x="1156" y="1431" width="1117" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0022" x="2373" y="1431" width="1178" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0023" x="0" y="1908" width="1238" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0024" x="1338" y="1908" width="1299" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0025" x="2737" y="1908" width="1312" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0026" x="0" y="2385" width="1313" height="377"/>
+	<SubTexture name="tortuga_ataque0027" x="1413" y="2385" width="1279" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0028" x="2792" y="2385" width="1246" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0029" x="0" y="2862" width="1212" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0030" x="1312" y="2862" width="1179" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0031" x="2591" y="2862" width="1145" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0032" x="0" y="3339" width="1112" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0033" x="1212" y="3339" width="1079" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0034" x="2391" y="3339" width="1045" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+	<SubTexture name="tortuga_ataque0035" x="0" y="0" width="1012" height="377" frameX="0" frameY="0" frameWidth="1313" frameHeight="377"/>
+</TextureAtlas>

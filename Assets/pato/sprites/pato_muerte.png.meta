@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 3686ad3be2671fc4b89617d84d398afc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pato muerte0000
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1532
+        width: 573
+        height: 441
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d80b333bd80390800000000000000
+      internalID: -7851784937240209626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0001
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1530
+        width: 577
+        height: 445
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d178f7ad33b56a0800000000000000
+      internalID: -6459512226997396087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0002
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1528
+        width: 581
+        height: 455
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505564be48f10a230800000000000000
+      internalID: 3647950353913500933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0003
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1527
+        width: 570
+        height: 453
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a9b66bd4437db0800000000000000
+      internalID: -4795413469107476860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0004
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1525
+        width: 574
+        height: 448
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb858ecf7fc509880800000000000000
+      internalID: -8606276667735254850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0005
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 1523
+        width: 566
+        height: 455
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d9e8443b0e5c260800000000000000
+      internalID: 7117341846682901767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0006
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 996
+        width: 571
+        height: 451
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7e02ccc3c939a0800000000000000
+      internalID: -6252751323430748520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0007
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 995
+        width: 560
+        height: 457
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74818927ab5a3990800000000000000
+      internalID: -7405505863743339395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0008
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1013
+        width: 564
+        height: 434
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a08536717384a20800000000000000
+      internalID: 3046745721506630181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0009
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1032
+        width: 570
+        height: 415
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63234043d97506440800000000000000
+      internalID: 4927034325037494838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0010
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1051
+        width: 562
+        height: 403
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dbca29c3f380bb0800000000000000
+      internalID: -4969652659411960512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0011
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1069
+        width: 558
+        height: 385
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769f55eb40fac2b30800000000000000
+      internalID: 4263975382121052519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0012
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 560
+        width: 556
+        height: 368
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769576b5511786b10800000000000000
+      internalID: 1974952773143714151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0013
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 556
+        width: 569
+        height: 375
+      alignment: 9
+      pivot: {x: 0.4, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917158de1d82d1f0800000000000000
+      internalID: -1021599001841929834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0014
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 580
+        width: 567
+        height: 341
+      alignment: 9
+      pivot: {x: 0.35, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fb17f88e8fc16f0800000000000000
+      internalID: -712420963308683513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0015
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 582
+        width: 563
+        height: 313
+      alignment: 9
+      pivot: {x: 0.3, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83174f68b4cabf610800000000000000
+      internalID: 1656106728375480632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0016
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 586
+        width: 579
+        height: 309
+      alignment: 9
+      pivot: {x: 0.3, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6647645093a01500800000000000000
+      internalID: 364971410103682668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0017
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 584
+        width: 595
+        height: 311
+      alignment: 9
+      pivot: {x: 0.3, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd466fba5f7b1380800000000000000
+      internalID: -8999459402634867241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0018
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 614
+        height: 313
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b028455b68ce4a7e0800000000000000
+      internalID: -1755017891455663605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato muerte0019
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 143
+        width: 632
+        height: 313
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb94d4f4d01e7c0800000000000000
+      internalID: -4043936356151739548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pato muerte0000: -7851784937240209626
+      Pato muerte0001: -6459512226997396087
+      Pato muerte0002: 3647950353913500933
+      Pato muerte0003: -4795413469107476860
+      Pato muerte0004: -8606276667735254850
+      Pato muerte0005: 7117341846682901767
+      Pato muerte0006: -6252751323430748520
+      Pato muerte0007: -7405505863743339395
+      Pato muerte0008: 3046745721506630181
+      Pato muerte0009: 4927034325037494838
+      Pato muerte0010: -4969652659411960512
+      Pato muerte0011: 4263975382121052519
+      Pato muerte0012: 1974952773143714151
+      Pato muerte0013: -1021599001841929834
+      Pato muerte0014: -712420963308683513
+      Pato muerte0015: 1656106728375480632
+      Pato muerte0016: 364971410103682668
+      Pato muerte0017: -8999459402634867241
+      Pato muerte0018: -1755017891455663605
+      Pato muerte0019: -4043936356151739548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

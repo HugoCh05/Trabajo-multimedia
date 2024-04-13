@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maiz.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maiz0000" x="0" y="0" width="42" height="76"/>
+	<SubTexture name="maiz0001" x="42" y="0" width="42" height="76"/>
+	<SubTexture name="maiz0002" x="84" y="0" width="26" height="76" frameX="-8" frameY="0" frameWidth="42" frameHeight="76"/>
+	<SubTexture name="maiz0003" x="110" y="0" width="42" height="76"/>
+</TextureAtlas>

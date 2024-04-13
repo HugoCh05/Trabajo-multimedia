@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pato_muerte.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pato muerte0000" x="100" y="100" width="530" height="416" frameX="0" frameY="-12" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0001" x="730" y="100" width="530" height="418" frameX="0" frameY="-10" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0002" x="1360" y="100" width="530" height="420" frameX="0" frameY="-8" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0003" x="1990" y="100" width="530" height="421" frameX="0" frameY="-7" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0004" x="2620" y="100" width="530" height="423" frameX="0" frameY="-5" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0005" x="3250" y="100" width="530" height="425" frameX="0" frameY="-3" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0006" x="100" y="625" width="530" height="427" frameX="0" frameY="-1" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0007" x="730" y="625" width="530" height="428" frameX="0" frameY="0" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0008" x="1360" y="625" width="530" height="410" frameX="0" frameY="-18" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0009" x="1990" y="625" width="530" height="391" frameX="0" frameY="-37" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0010" x="2620" y="625" width="530" height="372" frameX="0" frameY="-56" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0011" x="3250" y="625" width="530" height="354" frameX="0" frameY="-74" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0012" x="100" y="1153" width="530" height="335" frameX="0" frameY="-93" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0013" x="730" y="1153" width="534" height="339" frameX="0" frameY="-112" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0014" x="1364" y="1153" width="548" height="315" frameX="0" frameY="-136" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0015" x="2012" y="1153" width="563" height="313" frameX="0" frameY="-139" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0016" x="2675" y="1153" width="579" height="309" frameX="0" frameY="-143" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0017" x="3354" y="1153" width="595" height="311" frameX="0" frameY="-141" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0018" x="100" y="1592" width="614" height="313" frameX="0" frameY="-140" frameWidth="640" frameHeight="453"/>
+	<SubTexture name="Pato muerte0019" x="814" y="1592" width="632" height="313" frameX="0" frameY="-140" frameWidth="640" frameHeight="453"/>
+</TextureAtlas>

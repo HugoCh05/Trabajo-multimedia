@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: f40636047135ccd46ab33f646e8a179e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tortuga_ataque0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3719
+        width: 1012
+        height: 377
+      alignment: 9
+      pivot: {x: 0.64871544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3530345d70d205a00800000000000000
+      internalID: 743143450182091603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0001
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 3719
+        width: 1010
+        height: 377
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79ed565e6c9fbf0800000000000000
+      internalID: -289982012429789232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0002
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 3719
+        width: 1010
+        height: 377
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3001aa7ab6929bc0800000000000000
+      internalID: -3777791409744969666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3242
+        width: 1008
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6512897, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dad3696348a94e0800000000000000
+      internalID: -1974120116664816293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0004
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3242
+        width: 1003
+        height: 377
+      alignment: 9
+      pivot: {x: 0.65453637, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c06009213e38fcd0800000000000000
+      internalID: -2524199210278952764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0005
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3242
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d713f4088b3cb50800000000000000
+      internalID: 6612331539133988120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2765
+        width: 991
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6624622, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa24dcd635b60c0800000000000000
+      internalID: -4581476464859108759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0007
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3242
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a1afb241511b080800000000000000
+      internalID: -9173527789595649403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0008
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2765
+        width: 1000
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6565, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180fd423963090250800000000000000
+      internalID: 5911259736250904705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0009
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3242
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd514c994428470800000000000000
+      internalID: 8395348082582478024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2765
+        width: 991
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6624622, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a389b51e244d7d4f0800000000000000
+      internalID: -803940624748537798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0011
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3242
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca3885b7e03cc20800000000000000
+      internalID: 3225437681056197825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0012
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2765
+        width: 1000
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6565, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd3604577f541c0800000000000000
+      internalID: -4519934568032904019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0013
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3242
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350188c4614e0980800000000000000
+      internalID: -8570841139723041477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2765
+        width: 991
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6624622, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f78ef0c7fa2da80800000000000000
+      internalID: -8443493403988558075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0015
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2765
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0a203d27ba64a80800000000000000
+      internalID: -8482904338450964299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0016
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2765
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2a738265ef5f4e0800000000000000
+      internalID: -1948371617772494117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0017
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2765
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b8116c038149d90800000000000000
+      internalID: -7092016915441153245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0018
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2765
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a624d6fa2d51050800000000000000
+      internalID: 5770750148439337584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0019
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2765
+        width: 995
+        height: 377
+      alignment: 9
+      pivot: {x: 0.659799, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e5d5328d8c8f80800000000000000
+      internalID: -8102946039157890182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2288
+        width: 1056
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6216856, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30891835ff468ad60800000000000000
+      internalID: 7901676594001975299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0021
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2288
+        width: 1117
+        height: 377
+      alignment: 9
+      pivot: {x: 0.587735, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d0c1ae9039c320800000000000000
+      internalID: 2578645719523055836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0022
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 2288
+        width: 1178
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5573005, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8debc309c276890800000000000000
+      internalID: -7464948859337254705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0023
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1811
+        width: 1238
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5302908, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da201d4c0a3cf8a0800000000000000
+      internalID: -6270072756699649321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0024
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1811
+        width: 1299
+        height: 377
+      alignment: 9
+      pivot: {x: 0.50538874, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13353e48c8f26c880800000000000000
+      internalID: -8591126958591225039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0025
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1811
+        width: 1312
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5003811, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7de775a71e87cd0800000000000000
+      internalID: -2560048472589936642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1334
+        width: 1313
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae600668cb975e180800000000000000
+      internalID: -9086722822534854934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0027
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1334
+        width: 1279
+        height: 377
+      alignment: 9
+      pivot: {x: 0.51329166, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9023dab29959e180800000000000000
+      internalID: -9085632286508769125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0028
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1334
+        width: 1246
+        height: 377
+      alignment: 9
+      pivot: {x: 0.52688605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab37d815d9608cd0800000000000000
+      internalID: -2557928224380732509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857
+        width: 1212
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595513307b1c7330800000000000000
+      internalID: 3709870361753770324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0030
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 857
+        width: 1179
+        height: 377
+      alignment: 9
+      pivot: {x: 0.55682784, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af50866623971b0800000000000000
+      internalID: -5658436041401042406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0031
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 857
+        width: 1145
+        height: 377
+      alignment: 9
+      pivot: {x: 0.57336247, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f0d1b0babad970800000000000000
+      internalID: 8780535691572474636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 1112
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5903777, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa8b5362c9ec6f0800000000000000
+      internalID: -662420407252899127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0033
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 380
+        width: 1079
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6084337, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f4bd7aca8ca030800000000000000
+      internalID: 3507330812111811970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0034
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 380
+        width: 1045
+        height: 377
+      alignment: 9
+      pivot: {x: 0.6282297, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7dc74f2726c3e90800000000000000
+      internalID: -7044647471246682198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga_ataque0035
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3719
+        width: 1012
+        height: 377
+      alignment: 9
+      pivot: {x: 0.64871544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61618ba27b6007f10800000000000000
+      internalID: 2265317996332848662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tortuga_ataque0000: 743143450182091603
+      tortuga_ataque0001: -289982012429789232
+      tortuga_ataque0002: -3777791409744969666
+      tortuga_ataque0003: -1974120116664816293
+      tortuga_ataque0004: -2524199210278952764
+      tortuga_ataque0005: 6612331539133988120
+      tortuga_ataque0006: -4581476464859108759
+      tortuga_ataque0007: -9173527789595649403
+      tortuga_ataque0008: 5911259736250904705
+      tortuga_ataque0009: 8395348082582478024
+      tortuga_ataque0010: -803940624748537798
+      tortuga_ataque0011: 3225437681056197825
+      tortuga_ataque0012: -4519934568032904019
+      tortuga_ataque0013: -8570841139723041477
+      tortuga_ataque0014: -8443493403988558075
+      tortuga_ataque0015: -8482904338450964299
+      tortuga_ataque0016: -1948371617772494117
+      tortuga_ataque0017: -7092016915441153245
+      tortuga_ataque0018: 5770750148439337584
+      tortuga_ataque0019: -8102946039157890182
+      tortuga_ataque0020: 7901676594001975299
+      tortuga_ataque0021: 2578645719523055836
+      tortuga_ataque0022: -7464948859337254705
+      tortuga_ataque0023: -6270072756699649321
+      tortuga_ataque0024: -8591126958591225039
+      tortuga_ataque0025: -2560048472589936642
+      tortuga_ataque0026: -9086722822534854934
+      tortuga_ataque0027: -9085632286508769125
+      tortuga_ataque0028: -2557928224380732509
+      tortuga_ataque0029: 3709870361753770324
+      tortuga_ataque0030: -5658436041401042406
+      tortuga_ataque0031: 8780535691572474636
+      tortuga_ataque0032: -662420407252899127
+      tortuga_ataque0033: 3507330812111811970
+      tortuga_ataque0034: -7044647471246682198
+      tortuga_ataque0035: 2265317996332848662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

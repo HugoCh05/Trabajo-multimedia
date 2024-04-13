@@ -1,0 +1,1689 @@
+fileFormatVersion: 2
+guid: c9d1b60e34768da47af50537601146b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tortuga0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3718
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd448e8fbb6609130800000000000000
+      internalID: 3571467462025692381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0001
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3718
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c71644f2876220800000000000000
+      internalID: 2479094105550340336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0002
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3716
+        width: 1012
+        height: 380
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.46710527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e138cbe244421ff0800000000000000
+      internalID: -66915990242840094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0003
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 3712
+        width: 1012
+        height: 384
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.47265625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee983f539b1c4b0800000000000000
+      internalID: -5421848835007058246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0004
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 3712
+        width: 1012
+        height: 384
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.47265625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca04f2a0cee0b6d0800000000000000
+      internalID: -2976616842556863805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0005
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 3715
+        width: 1012
+        height: 381
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.46850392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc0a5014106bf40800000000000000
+      internalID: 5743779753536572318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0006
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 3718
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf5965c9f3e52bd0800000000000000
+      internalID: -2655465743366660131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0007
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 3718
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fb2ab7461fcde50800000000000000
+      internalID: 6835603748314857297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed33c810777b7e0800000000000000
+      internalID: -1749799081679266267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0009
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d119be662078c0800000000000000
+      internalID: -4003657811739159752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0010
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f5b0df22804c90800000000000000
+      internalID: -7187601863406651755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0011
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53525fb10630de870800000000000000
+      internalID: 8713624565352572213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0012
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1a189dc5a66850800000000000000
+      internalID: 6369961025400871731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0013
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ff08021c2bd910800000000000000
+      internalID: 1863131326804129120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0014
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426879a51c217b730800000000000000
+      internalID: 4014698214481954340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0015
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 3334
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd690425a709ec410800000000000000
+      internalID: 1499294581001328351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2956
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca31a0b02b2533d0800000000000000
+      internalID: -3227626138538788160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0017
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2956
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8eb3f551a1e6db0800000000000000
+      internalID: -4796867874008602425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0018
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2956
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be1115dc0b9f3c0800000000000000
+      internalID: -4325231571237737696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0019
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2956
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029c3eecdef604090800000000000000
+      internalID: -8052313066569479904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0020
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2956
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5899dd3965603e20800000000000000
+      internalID: 3328271627310438490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0021
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 2953
+        width: 1012
+        height: 381
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.46850392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c204db6be25086230800000000000000
+      internalID: 3632158797666795564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0022
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2948
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68affe70c0495aa0800000000000000
+      internalID: -6171830618825971604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0023
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 2941
+        width: 1012
+        height: 393
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.48473284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0c17b7d3f281b0800000000000000
+      internalID: -5655690074208334813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2542
+        width: 1012
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4924812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa8b9a8edd1e8a40800000000000000
+      internalID: 5372264247144975101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0025
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2540
+        width: 1012
+        height: 401
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.49501246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c9f2b11b3ea9d0800000000000000
+      internalID: -2761204574328338448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0026
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2539
+        width: 1012
+        height: 402
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.49626866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36369e86937275630800000000000000
+      internalID: 3915641528548680547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0027
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2541
+        width: 1012
+        height: 400
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.49375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d0527b462a48a50800000000000000
+      internalID: 6522516713792408945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0028
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2544
+        width: 1012
+        height: 397
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.48992443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e5b91d78667f110800000000000000
+      internalID: 1294616151415545407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0029
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 2548
+        width: 1012
+        height: 393
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.48473284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934f309aef92e47d0800000000000000
+      internalID: -2932360133637573575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0030
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2555
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9501467d356ecd60800000000000000
+      internalID: 7912372909987923359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0031
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2555
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49fcd2b07880fb10800000000000000
+      internalID: 2013259051053152588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0032
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2555
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17abaf27582fb00800000000000000
+      internalID: 860897207660474798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0033
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2555
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86e16bb07c3f1d0800000000000000
+      internalID: -3318089647327909669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0034
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2555
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d77c3201c28b830800000000000000
+      internalID: 4087065109670100306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0035
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2555
+        width: 1012
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4753886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeabe4e680ceed40800000000000000
+      internalID: 5615637470976388769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0036
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 2553
+        width: 1012
+        height: 388
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4780928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d5179e1c6a8800800000000000000
+      internalID: 615423177729101875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0037
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2151
+        width: 1012
+        height: 388
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4780928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163826e91d0f9e9b0800000000000000
+      internalID: -5050240724023213215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0038
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2154
+        width: 1012
+        height: 385
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.47402596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081ac4f651c5bb60800000000000000
+      internalID: 7761322112061151236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0039
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2159
+        width: 1012
+        height: 380
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.46710527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9436b3ba86d031c90800000000000000
+      internalID: -7200396636034735287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0040
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2167
+        width: 1012
+        height: 372
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.45564517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc179adaadaa7f70800000000000000
+      internalID: 9185845339298929918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0041
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2174
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5769c9544f6c00800000000000000
+      internalID: 896010003291790976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0042
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 2174
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ae4f24ac73d030800000000000000
+      internalID: 3518292778516652857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0043
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2174
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de471e8f9ca36770800000000000000
+      internalID: 8602909514491449040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0044
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 2174
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d216f2c7c8d0290800000000000000
+      internalID: -7922521704476103352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0045
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf5c897e323f85c0800000000000000
+      internalID: -4211091882659520575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0046
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530b172c9e012c600800000000000000
+      internalID: 486970305885089845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0047
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878bc2479765e97c0800000000000000
+      internalID: -4062714734201489288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0048
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a52da111353aeea0800000000000000
+      internalID: -5842799081693567575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0049
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2aa73e54bf013c0800000000000000
+      internalID: -4390733359098453255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0050
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c103d53c9268b0800000000000000
+      internalID: -5160390468025857541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0051
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff7a27ead47c9e0800000000000000
+      internalID: -1601225730863661142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0052
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 1786
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3c7ca5dc867380800000000000000
+      internalID: -8973830358139388492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0053
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1421
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fceabc3667fd3a90800000000000000
+      internalID: -7332432599811691273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0054
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1421
+        width: 1012
+        height: 365
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.44520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cbb7ee67867d770800000000000000
+      internalID: 8635485670522731615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0055
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2956
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936178cb46853700800000000000000
+      internalID: 519468992074703766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0056
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1406
+        width: 1012
+        height: 380
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.46710527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e9a0ab53c62890800000000000000
+      internalID: -7483078932524572573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0057
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1393
+        width: 1012
+        height: 393
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.48473284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc8950bb35cd40e0800000000000000
+      internalID: -2283952575854572321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0058
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 1385
+        width: 1012
+        height: 401
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.49501246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73df74e376681ba0800000000000000
+      internalID: -6118027445841964163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0059
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 1381
+        width: 1012
+        height: 405
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9d38013afa2ea0800000000000000
+      internalID: -5896625673589646693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0060
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 1381
+        width: 1012
+        height: 405
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21392f1e8247dc370800000000000000
+      internalID: 8344453403525681938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0061
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 1383
+        width: 1012
+        height: 403
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4975186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a0798a499105290800000000000000
+      internalID: -7903789219760895403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0062
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 1012
+        height: 398
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.49120602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6834628fc2eb00800000000000000
+      internalID: 856475038087932820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0063
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 992
+        width: 1012
+        height: 389
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.47943446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e1aab5258c41a90800000000000000
+      internalID: -7344024836283687417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0064
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc9daecf4deaaba0800000000000000
+      internalID: -6076783820157379373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0065
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5a89159b98eaf70800000000000000
+      internalID: 9200442517795415508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0066
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c8b0d42d83eec0800000000000000
+      internalID: -3538829692922969836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0067
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd759e1b9e81f0d0800000000000000
+      internalID: -3390772247549084218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0068
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f19a9072333de70800000000000000
+      internalID: 9138704311623688009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0069
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a7d664cb94eac60800000000000000
+      internalID: 7831277875028130360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortuga0070
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1003
+        width: 1012
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6487154, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65101437241298a0800000000000000
+      internalID: -6299950770128153238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tortuga0000: 3571467462025692381
+      tortuga0001: 2479094105550340336
+      tortuga0002: -66915990242840094
+      tortuga0003: -5421848835007058246
+      tortuga0004: -2976616842556863805
+      tortuga0005: 5743779753536572318
+      tortuga0006: -2655465743366660131
+      tortuga0007: 6835603748314857297
+      tortuga0008: -1749799081679266267
+      tortuga0009: -4003657811739159752
+      tortuga0010: -7187601863406651755
+      tortuga0011: 8713624565352572213
+      tortuga0012: 6369961025400871731
+      tortuga0013: 1863131326804129120
+      tortuga0014: 4014698214481954340
+      tortuga0015: 1499294581001328351
+      tortuga0016: -3227626138538788160
+      tortuga0017: -4796867874008602425
+      tortuga0018: -4325231571237737696
+      tortuga0019: -8052313066569479904
+      tortuga0020: 3328271627310438490
+      tortuga0021: 3632158797666795564
+      tortuga0022: -6171830618825971604
+      tortuga0023: -5655690074208334813
+      tortuga0024: 5372264247144975101
+      tortuga0025: -2761204574328338448
+      tortuga0026: 3915641528548680547
+      tortuga0027: 6522516713792408945
+      tortuga0028: 1294616151415545407
+      tortuga0029: -2932360133637573575
+      tortuga0030: 7912372909987923359
+      tortuga0031: 2013259051053152588
+      tortuga0032: 860897207660474798
+      tortuga0033: -3318089647327909669
+      tortuga0034: 4087065109670100306
+      tortuga0035: 5615637470976388769
+      tortuga0036: 615423177729101875
+      tortuga0037: -5050240724023213215
+      tortuga0038: 7761322112061151236
+      tortuga0039: -7200396636034735287
+      tortuga0040: 9185845339298929918
+      tortuga0041: 896010003291790976
+      tortuga0042: 3518292778516652857
+      tortuga0043: 8602909514491449040
+      tortuga0044: -7922521704476103352
+      tortuga0045: -4211091882659520575
+      tortuga0046: 486970305885089845
+      tortuga0047: -4062714734201489288
+      tortuga0048: -5842799081693567575
+      tortuga0049: -4390733359098453255
+      tortuga0050: -5160390468025857541
+      tortuga0051: -1601225730863661142
+      tortuga0052: -8973830358139388492
+      tortuga0053: -7332432599811691273
+      tortuga0054: 8635485670522731615
+      tortuga0055: 519468992074703766
+      tortuga0056: -7483078932524572573
+      tortuga0057: -2283952575854572321
+      tortuga0058: -6118027445841964163
+      tortuga0059: -5896625673589646693
+      tortuga0060: 8344453403525681938
+      tortuga0061: -7903789219760895403
+      tortuga0062: 856475038087932820
+      tortuga0063: -7344024836283687417
+      tortuga0064: -6076783820157379373
+      tortuga0065: 9200442517795415508
+      tortuga0066: -3538829692922969836
+      tortuga0067: -3390772247549084218
+      tortuga0068: 9138704311623688009
+      tortuga0069: 7831277875028130360
+      tortuga0070: -6299950770128153238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

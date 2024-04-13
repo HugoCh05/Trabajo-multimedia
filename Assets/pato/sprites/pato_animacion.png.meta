@@ -1,0 +1,3537 @@
+fileFormatVersion: 2
+guid: 6038af1d3fcf74641b06fbf76281b621
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pato0000
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7693
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332387cfd8a698070800000000000000
+      internalID: 8109129762115957299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0001
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 7693
+        width: 447
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69463086, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28905c980b74f70800000000000000
+      internalID: 9171493271926047457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0002
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 7693
+        width: 444
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6925676, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6813176aabb15e4d0800000000000000
+      internalID: -3106045879531785850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0003
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 7693
+        width: 441
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6904762, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d7468565853ef0800000000000000
+      internalID: -129050343219146287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0004
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 7693
+        width: 438
+        height: 399
+      alignment: 9
+      pivot: {x: 0.68835616, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae511233cab39310800000000000000
+      internalID: 1410676455818485418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0005
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 7693
+        width: 435
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6862069, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b6507f69c36960800000000000000
+      internalID: 7594134877140071497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0006
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 7693
+        width: 431
+        height: 399
+      alignment: 9
+      pivot: {x: 0.68329465, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a855943c5cda860800000000000000
+      internalID: 7542902393455086175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0007
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 7693
+        width: 435
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6862069, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53377ad11e0b07e70800000000000000
+      internalID: 9110976527082156853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0008
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 7693
+        width: 438
+        height: 399
+      alignment: 9
+      pivot: {x: 0.68835616, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb10af12ef08df40800000000000000
+      internalID: 5753365987833420781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0009
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 7693
+        width: 441
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6904762, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7678f3c111d1a350800000000000000
+      internalID: 6026327650630923903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0010
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7693
+        width: 444
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6925676, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502c8c04bc7091510800000000000000
+      internalID: 1520254918760907269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0011
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 7693
+        width: 447
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69463086, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210fd3ea1b5863f20800000000000000
+      internalID: 3402053566703988754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0012
+      rect:
+        serializedVersion: 2
+        x: 6591
+        y: 7693
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba1441f72457bff0800000000000000
+      internalID: -20455142771647823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0013
+      rect:
+        serializedVersion: 2
+        x: 7141
+        y: 7691
+        width: 447
+        height: 401
+      alignment: 9
+      pivot: {x: 0.69463086, y: 1.1783042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f42b82b7961ca0800000000000000
+      internalID: -6046478656603884247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0014
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7188
+        width: 444
+        height: 403
+      alignment: 9
+      pivot: {x: 0.6925676, y: 1.1774193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f75e3d59d27b930800000000000000
+      internalID: 4158842902428352320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0015
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 7187
+        width: 441
+        height: 404
+      alignment: 9
+      pivot: {x: 0.6904762, y: 1.1769803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc969a7854b24ba0800000000000000
+      internalID: -6106119852654158606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0016
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 7193
+        width: 438
+        height: 398
+      alignment: 9
+      pivot: {x: 0.68835616, y: 1.1796483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0562178792f3bd3f0800000000000000
+      internalID: -875036255246539184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0017
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 7193
+        width: 440
+        height: 398
+      alignment: 9
+      pivot: {x: 0.6897727, y: 1.1796483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473c0e258facefe0800000000000000
+      internalID: -1158358017602996411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0018
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 7192
+        width: 441
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6904762, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7096b9920a9b934a0800000000000000
+      internalID: -6613050480272905977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0019
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 7191
+        width: 440
+        height: 400
+      alignment: 9
+      pivot: {x: 0.6897727, y: 1.17875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7910c0f54fe990800000000000000
+      internalID: -7354582766155367652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0020
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 7191
+        width: 439
+        height: 400
+      alignment: 9
+      pivot: {x: 0.68906605, y: 1.17875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0121ecd9980ebfc50800000000000000
+      internalID: 6700195752306414096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0021
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 7191
+        width: 441
+        height: 400
+      alignment: 9
+      pivot: {x: 0.6904762, y: 1.17875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32f7a3c09569970800000000000000
+      internalID: 8761288034151768997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0022
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 7192
+        width: 444
+        height: 399
+      alignment: 9
+      pivot: {x: 0.6925676, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621def8f0bd81c7b0800000000000000
+      internalID: -5205723903032372954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0023
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 7193
+        width: 447
+        height: 398
+      alignment: 9
+      pivot: {x: 0.69463086, y: 1.1796483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67bc9250ac045e60800000000000000
+      internalID: 7949993124936071019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0024
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 7192
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e066ee678f9010800000000000000
+      internalID: 1197824936285102693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0025
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 7192
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c19b6e1053f2980800000000000000
+      internalID: -8561566084325892969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0026
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 7192
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8df85357cb41670800000000000000
+      internalID: 8508632807605524644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0027
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 7192
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3a6f1f6f6212d0800000000000000
+      internalID: -3309460253104784022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0028
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 7192
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53245869a69873240800000000000000
+      internalID: 4771433421107184181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0029
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 7192
+        width: 450
+        height: 399
+      alignment: 9
+      pivot: {x: 0.69666666, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2992fda5e3e597cb0800000000000000
+      internalID: -4865754300491552366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0030
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18481929e6b49a250800000000000000
+      internalID: 5956374920451687553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0031
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 7193
+        width: 402
+        height: 398
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1746231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9213749e1ea01060800000000000000
+      internalID: 6922224073631273629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0032
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 7194
+        width: 402
+        height: 397
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.175063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c711fc91acb7b120800000000000000
+      internalID: 2429617926298474433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0033
+      rect:
+        serializedVersion: 2
+        x: 7571
+        y: 7194
+        width: 402
+        height: 397
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.175063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535583bbb83afc960800000000000000
+      internalID: 7624492514698351925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0034
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6690
+        width: 415
+        height: 397
+      alignment: 9
+      pivot: {x: 0.7554217, y: 1.175063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bdd6dc8c18b1620800000000000000
+      internalID: 2745931097252420361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0035
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6690
+        width: 419
+        height: 397
+      alignment: 9
+      pivot: {x: 0.74821, y: 1.175063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698076f763d6c7ea0800000000000000
+      internalID: -5873699733164849002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0036
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 6690
+        width: 423
+        height: 397
+      alignment: 9
+      pivot: {x: 0.74113476, y: 1.175063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959508d502d760270800000000000000
+      internalID: 8216392148145166681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0037
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 6649
+        width: 426
+        height: 438
+      alignment: 9
+      pivot: {x: 0.7359155, y: 1.0696347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd5b4669f15a710800000000000000
+      internalID: 1703802764824796039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0038
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 6615
+        width: 422
+        height: 472
+      alignment: 9
+      pivot: {x: 0.742891, y: 1.0158899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3511d5d912e4ee0800000000000000
+      internalID: -1275044684744272985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0039
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 6581
+        width: 417
+        height: 506
+      alignment: 9
+      pivot: {x: 0.75179857, y: 0.96936756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b820f0a125bbd9580800000000000000
+      internalID: -8818686534022659445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0040
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 6546
+        width: 413
+        height: 541
+      alignment: 9
+      pivot: {x: 0.7590799, y: 0.9288355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb30a8e0508df50800000000000000
+      internalID: 6906275588575837997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0041
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 6515
+        width: 408
+        height: 572
+      alignment: 9
+      pivot: {x: 0.7683824, y: 0.8924825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c096d3a50b6dd9830800000000000000
+      internalID: 4079652890384099596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0042
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 6488
+        width: 403
+        height: 599
+      alignment: 9
+      pivot: {x: 0.77791566, y: 0.85893154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bf201091c0a590800000000000000
+      internalID: -7664913741293571202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0043
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 6514
+        width: 402
+        height: 573
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.89267015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886da53a6ff7452d0800000000000000
+      internalID: -3290864730421668216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0044
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 6545
+        width: 402
+        height: 542
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.92896676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ad131cdc7ec9c0800000000000000
+      internalID: -3905046542228281606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0045
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 6578
+        width: 402
+        height: 509
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.9695481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6b9bd4765bfe50800000000000000
+      internalID: 6844159118620192761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0046
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 6611
+        width: 402
+        height: 476
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.0157562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269178ca08145f070800000000000000
+      internalID: 8139483922448193890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0047
+      rect:
+        serializedVersion: 2
+        x: 6754
+        y: 6640
+        width: 402
+        height: 447
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.0682327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473ec9d6650339350800000000000000
+      internalID: 6022210274488804212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0048
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 6679
+        width: 402
+        height: 408
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1629902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d40a64d2aa413680800000000000000
+      internalID: -8777152135559510826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0049
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5985
+        width: 402
+        height: 403
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1724566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f17a6009544840800000000000000
+      internalID: 5207384927467862425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0050
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 5987
+        width: 405
+        height: 401
+      alignment: 9
+      pivot: {x: 0.7740741, y: 1.1733167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5640f4d7e48ad90800000000000000
+      internalID: -7086327713563908685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0051
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 5989
+        width: 415
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7554217, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fefbd8dd9dcfad0800000000000000
+      internalID: -2667017333721010279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0052
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 5989
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af1c9dd22857e1f0800000000000000
+      internalID: -1015746284178628700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0053
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 5989
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797f286a6b7c2550800000000000000
+      internalID: 6137416089143834999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0054
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951a0e3f52d68d90800000000000000
+      internalID: -7095752856371063403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0055
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50734327aa070aa0800000000000000
+      internalID: -6194971049457389473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0056
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66a96d1b49a51b0800000000000000
+      internalID: -5667053689561782547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0057
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d1c51dfb4ee440800000000000000
+      internalID: 4966990989400068889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0058
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a86e5b21b63a1f50800000000000000
+      internalID: 6852849917562349728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0059
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 7192
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a788b691ea10380800000000000000
+      internalID: -9006726355562759621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0060
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bba014773f00380800000000000000
+      internalID: -9006931561223111808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0061
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 5989
+        width: 406
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7820197, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c67e0f1e3e3b60800000000000000
+      internalID: 7727682313721923430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0062
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 5989
+        width: 405
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7814815, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155de56972224ee40800000000000000
+      internalID: 5684706183070274897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0063
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 5989
+        width: 404
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7809406, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96245c2bf62d8ab00800000000000000
+      internalID: 840152707687072361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0064
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 5989
+        width: 403
+        height: 399
+      alignment: 9
+      pivot: {x: 0.780397, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775a3d3698215da0800000000000000
+      internalID: -5957936206297016463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0065
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 5989
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd161ac357f26ee00800000000000000
+      internalID: 1073597741749330396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0066
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 5989
+        width: 401
+        height: 399
+      alignment: 9
+      pivot: {x: 0.77930176, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9442124d6da84150800000000000000
+      internalID: 5857122000166864031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0067
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 5989
+        width: 399
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7781955, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf9d19afd02e5780800000000000000
+      internalID: -8692474085791391779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0068
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 5989
+        width: 398
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7776382, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bacd71596dce3880800000000000000
+      internalID: -8629233983772833102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0069
+      rect:
+        serializedVersion: 2
+        x: 7151
+        y: 5989
+        width: 396
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7765151, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f57cfe2da5885d0800000000000000
+      internalID: -3060096084785799349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0070
+      rect:
+        serializedVersion: 2
+        x: 7647
+        y: 5989
+        width: 394
+        height: 399
+      alignment: 9
+      pivot: {x: 0.77538073, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28fbac5c72e12500800000000000000
+      internalID: 369825668179687471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0071
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5486
+        width: 396
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7765151, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a1a42bb269047b0800000000000000
+      internalID: -5242024851840296357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0072
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 5486
+        width: 398
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7776382, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657bc50e61eca860800000000000000
+      internalID: 7542651338598610283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0073
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 5486
+        width: 399
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7781955, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9d3da56ab12c90800000000000000
+      internalID: -7196265783700383113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0074
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 5486
+        width: 401
+        height: 399
+      alignment: 9
+      pivot: {x: 0.77930176, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db41931cd97f9d560800000000000000
+      internalID: 7339169324700603581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0075
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 5486
+        width: 402
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71296cf9b342f5a00800000000000000
+      internalID: 747355901669052951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0076
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 5486
+        width: 403
+        height: 399
+      alignment: 9
+      pivot: {x: 0.780397, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55126f3544be1bd0800000000000000
+      internalID: -2657488520592878244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0077
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 5486
+        width: 404
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7809406, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd2b7559e64c5e40800000000000000
+      internalID: 5646466000791219666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0078
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 5486
+        width: 405
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7814815, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24568f8560eb2d0800000000000000
+      internalID: -3261162100975385885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0079
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 5486
+        width: 406
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7820197, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c56152e8e974fd0800000000000000
+      internalID: -2357741546560398256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0080
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b29eea9767ed990800000000000000
+      internalID: -7359314476079174832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0081
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ec098b96a66040800000000000000
+      internalID: 4640579653001339508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0082
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398f9cad95fbe6fd0800000000000000
+      internalID: -2346727963169785709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0083
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663deeea6ee564150800000000000000
+      internalID: 5856472710312285030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0084
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722c3a6df7d1ab560800000000000000
+      internalID: 7330203778398011943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0085
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720d03451b0359e0800000000000000
+      internalID: -1633950053858213261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0086
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0eeb4700925cc90800000000000000
+      internalID: -7150263751445389105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0087
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9734f873045991cb0800000000000000
+      internalID: -4892715417118751879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0088
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c344a3b6acd40b0800000000000000
+      internalID: -5742711387939652564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0089
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99207e64316df7510800000000000000
+      internalID: 1549192175121007257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0090
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 5286
+        width: 403
+        height: 599
+      alignment: 9
+      pivot: {x: 0.77791566, y: 0.85893154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d265cc4868317a0800000000000000
+      internalID: -6407629939896079077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0091
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 5270
+        width: 403
+        height: 615
+      alignment: 9
+      pivot: {x: 0.77791566, y: 0.8349593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4ecc7e5f22d8490800000000000000
+      internalID: -7742493744828717862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0092
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 5254
+        width: 402
+        height: 631
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.8122029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b199273fa7a790800000000000000
+      internalID: -7518848401416276444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0093
+      rect:
+        serializedVersion: 2
+        x: 6122
+        y: 5238
+        width: 402
+        height: 647
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.79057187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348b31e9e1017ea0800000000000000
+      internalID: -5876913934724004804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0094
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 5223
+        width: 402
+        height: 662
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.76963747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dce3201d74854a40800000000000000
+      internalID: 5351829404876270809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0095
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 5208
+        width: 402
+        height: 677
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.74963075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c33939ea7db9690800000000000000
+      internalID: -7594239201830028139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0096
+      rect:
+        serializedVersion: 2
+        x: 7628
+        y: 5193
+        width: 402
+        height: 692
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.73049134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f87fd2aee7b2c0800000000000000
+      internalID: -4415798526312123217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0097
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4348
+        width: 402
+        height: 745
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.6771812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9b7e4837f74c600800000000000000
+      internalID: 487654793790601696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0098
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4294
+        width: 402
+        height: 799
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.6314143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8725d8489810a5160800000000000000
+      internalID: 7014921059728970360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0099
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 4240
+        width: 402
+        height: 853
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.591442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac135031930ee5e0800000000000000
+      internalID: -1878560072451023706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0100
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 4185
+        width: 402
+        height: 908
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.55561674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddea6df1accaec40800000000000000
+      internalID: 5542467287546260950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0101
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4130
+        width: 403
+        height: 963
+      alignment: 9
+      pivot: {x: 0.77791566, y: 0.5238837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e7ae0bae7c38d0800000000000000
+      internalID: -2865275989764086600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0102
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 4074
+        width: 403
+        height: 1019
+      alignment: 9
+      pivot: {x: 0.77791566, y: 0.49509323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d81d651b9c1990800000000000000
+      internalID: -7413880370231717632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0103
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 4132
+        width: 402
+        height: 961
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.52185225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b19788894c49460800000000000000
+      internalID: 7247633859749682014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0104
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 4189
+        width: 402
+        height: 904
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.55143803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359798fa57a957e20800000000000000
+      internalID: 3347751728266705235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0105
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 4247
+        width: 402
+        height: 846
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.5856974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b3a1a6de896550800000000000000
+      internalID: 6154607418264499821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0106
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 4305
+        width: 402
+        height: 788
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.62373096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ecff8d238add30800000000000000
+      internalID: 4457019012949009850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0107
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 4363
+        width: 402
+        height: 730
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.66917807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9942b92412f1b0890800000000000000
+      internalID: -7490859327488842599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0108
+      rect:
+        serializedVersion: 2
+        x: 5624
+        y: 4420
+        width: 402
+        height: 673
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.72139674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db753a999c9edaaa0800000000000000
+      internalID: -6148000864215541827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0109
+      rect:
+        serializedVersion: 2
+        x: 6126
+        y: 4476
+        width: 402
+        height: 617
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.7836305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddddae266593d910800000000000000
+      internalID: 1860995337136496089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0110
+      rect:
+        serializedVersion: 2
+        x: 6628
+        y: 4533
+        width: 402
+        height: 560
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.85982144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde319c6702f7f80800000000000000
+      internalID: -8106725109691847213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0111
+      rect:
+        serializedVersion: 2
+        x: 7130
+        y: 4589
+        width: 402
+        height: 504
+      alignment: 9
+      pivot: {x: 0.7798507, y: 0.9513889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c94e6f3fbca247b0800000000000000
+      internalID: -5241437078902912572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0112
+      rect:
+        serializedVersion: 2
+        x: 7632
+        y: 4646
+        width: 402
+        height: 447
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.0682327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b41bedb9c7ba00800000000000000
+      internalID: 772307678647333259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3566
+        width: 402
+        height: 408
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1629902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001a452ee85b9c80800000000000000
+      internalID: -8314954507158417399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 3571
+        width: 402
+        height: 403
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1724566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17432d1683a6c0360800000000000000
+      internalID: 7137196299867272305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0115
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3573
+        width: 405
+        height: 401
+      alignment: 9
+      pivot: {x: 0.7740741, y: 1.1733167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cff0370aeaa40f0800000000000000
+      internalID: -1131900352181830607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0116
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 3575
+        width: 415
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7554217, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c331d39aff48a0800000000000000
+      internalID: -6318556239400548245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0117
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3575
+        width: 404
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7809406, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07419615c95b80a0800000000000000
+      internalID: -6878305302856251636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0118
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3575
+        width: 405
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7814815, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dbb41d5186253a0800000000000000
+      internalID: -6678160854522020577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0119
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569e4b2181738200800000000000000
+      internalID: 181113209616242270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0120
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335d4e9ec7c70630800000000000000
+      internalID: 3893300093118141232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0121
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7388c235cde382720800000000000000
+      internalID: 2821574282556770359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0122
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bca094c2334daa80800000000000000
+      internalID: -8454027040179311431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0123
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf045dd75877c720800000000000000
+      internalID: 2866392006615371739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0124
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc19faa453def30800000000000000
+      internalID: 4606396588759305169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0125
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6d425fd53406280800000000000000
+      internalID: -9052161180190845251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0126
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c303ed9b863cb60800000000000000
+      internalID: 7765165330022808606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0127
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154c5ca7e2c8c8320800000000000000
+      internalID: 2561576419323135057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0128
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b6f65e103b67680800000000000000
+      internalID: -8757615604649727120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0129
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 5989
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.1741855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72c06362e065ad0800000000000000
+      internalID: -2713966168165832723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0130
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3577
+        width: 402
+        height: 397
+      alignment: 9
+      pivot: {x: 0.7798507, y: 1.1801008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86c0d410e4691c30800000000000000
+      internalID: 4330603430278121102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0131
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 3575
+        width: 403
+        height: 399
+      alignment: 9
+      pivot: {x: 0.780397, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899310aeb05b9aeb0800000000000000
+      internalID: -4708032872663926376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0132
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 3573
+        width: 405
+        height: 401
+      alignment: 9
+      pivot: {x: 0.7814815, y: 1.1783042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579e2589c7e0ded20800000000000000
+      internalID: 3309317229481486709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0133
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 3571
+        width: 406
+        height: 403
+      alignment: 9
+      pivot: {x: 0.7820197, y: 1.1774193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4507270b55bc5a650800000000000000
+      internalID: 6243620027312009300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0134
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 3575
+        width: 407
+        height: 399
+      alignment: 9
+      pivot: {x: 0.7825553, y: 1.179198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9426ea4065f3dd4f0800000000000000
+      internalID: -802415519923805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0135
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 3578
+        width: 418
+        height: 396
+      alignment: 9
+      pivot: {x: 0.76435405, y: 1.1805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0261ba2d010737f0800000000000000
+      internalID: -633036066559794677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0136
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 3593
+        width: 639
+        height: 381
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2270341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5016de1c21d8e40800000000000000
+      internalID: 5660200930795128253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0137
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 3582
+        width: 635
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5015748, y: 1.1951531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26facf1b306cc7c0800000000000000
+      internalID: -4049756157860186581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0138
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3064
+        width: 632
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5039557, y: 1.1654229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e416da5954c2f8910800000000000000
+      internalID: 1841739449993355598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0139
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 3052
+        width: 629
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5047695, y: 1.134058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ae6f8ca5ced4bb0800000000000000
+      internalID: -4950040540747470269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0140
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 3043
+        width: 625
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5064, y: 1.107565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b131ac2814af17c0800000000000000
+      internalID: -4098376712148930126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0141
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 3032
+        width: 620
+        height: 434
+      alignment: 9
+      pivot: {x: 0.50725806, y: 1.079493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f31f8d99724752a0800000000000000
+      internalID: -6748852426489523207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0142
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 3028
+        width: 617
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5081037, y: 1.0673516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e12b1f77cf9170800000000000000
+      internalID: 8187481996312832458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0143
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 3022
+        width: 617
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5097245, y: 1.052928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0080a5d766a1a70800000000000000
+      internalID: 8798457510589104338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0144
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 3016
+        width: 617
+        height: 450
+      alignment: 9
+      pivot: {x: 0.512966, y: 1.0388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2357394253266ca0800000000000000
+      internalID: -6024088615238806739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0145
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 3018
+        width: 616
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5154221, y: 1.0502232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aea98444c80b1c0800000000000000
+      internalID: -4489934603584607718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0146
+      rect:
+        serializedVersion: 2
+        x: 5873
+        y: 3026
+        width: 615
+        height: 440
+      alignment: 9
+      pivot: {x: 0.51788616, y: 1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71d3286faf721410800000000000000
+      internalID: 1446358821682532731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0147
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 3033
+        width: 613
+        height: 433
+      alignment: 9
+      pivot: {x: 0.52120715, y: 1.0773672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd30a967500427ff0800000000000000
+      internalID: -39899054484093985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0148
+      rect:
+        serializedVersion: 2
+        x: 7301
+        y: 3043
+        width: 608
+        height: 423
+      alignment: 9
+      pivot: {x: 0.52549344, y: 1.1028368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177f572fba0f1910800000000000000
+      internalID: 1810177391341827862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0149
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2504
+        width: 603
+        height: 412
+      alignment: 9
+      pivot: {x: 0.5281924, y: 1.1322815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167460f0dee8ada50800000000000000
+      internalID: 6546702157146900321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0150
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2513
+        width: 598
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5326087, y: 1.1600497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fbcfc7959750cf0800000000000000
+      internalID: -286689576012169445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0151
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 2519
+        width: 406
+        height: 397
+      alignment: 9
+      pivot: {x: 0.7820197, y: 1.1826197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40418d8148a37b6f0800000000000000
+      internalID: -669001680614321148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0152
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2520
+        width: 405
+        height: 396
+      alignment: 9
+      pivot: {x: 0.7814815, y: 1.1830808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e38226df9916aa0800000000000000
+      internalID: -6169480700968288750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0153
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2520
+        width: 403
+        height: 396
+      alignment: 9
+      pivot: {x: 0.780397, y: 1.1830808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc3c17f670f68700800000000000000
+      internalID: 542385198887353531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pato0154
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 2520
+        width: 472
+        height: 396
+      alignment: 9
+      pivot: {x: 0.6663136, y: 1.1830808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25168b189b8a0b960800000000000000
+      internalID: 7615772484582269266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pato0000: 8109129762115957299
+      Pato0001: 9171493271926047457
+      Pato0002: -3106045879531785850
+      Pato0003: -129050343219146287
+      Pato0004: 1410676455818485418
+      Pato0005: 7594134877140071497
+      Pato0006: 7542902393455086175
+      Pato0007: 9110976527082156853
+      Pato0008: 5753365987833420781
+      Pato0009: 6026327650630923903
+      Pato0010: 1520254918760907269
+      Pato0011: 3402053566703988754
+      Pato0012: -20455142771647823
+      Pato0013: -6046478656603884247
+      Pato0014: 4158842902428352320
+      Pato0015: -6106119852654158606
+      Pato0016: -875036255246539184
+      Pato0017: -1158358017602996411
+      Pato0018: -6613050480272905977
+      Pato0019: -7354582766155367652
+      Pato0020: 6700195752306414096
+      Pato0021: 8761288034151768997
+      Pato0022: -5205723903032372954
+      Pato0023: 7949993124936071019
+      Pato0024: 1197824936285102693
+      Pato0025: -8561566084325892969
+      Pato0026: 8508632807605524644
+      Pato0027: -3309460253104784022
+      Pato0028: 4771433421107184181
+      Pato0029: -4865754300491552366
+      Pato0030: 5956374920451687553
+      Pato0031: 6922224073631273629
+      Pato0032: 2429617926298474433
+      Pato0033: 7624492514698351925
+      Pato0034: 2745931097252420361
+      Pato0035: -5873699733164849002
+      Pato0036: 8216392148145166681
+      Pato0037: 1703802764824796039
+      Pato0038: -1275044684744272985
+      Pato0039: -8818686534022659445
+      Pato0040: 6906275588575837997
+      Pato0041: 4079652890384099596
+      Pato0042: -7664913741293571202
+      Pato0043: -3290864730421668216
+      Pato0044: -3905046542228281606
+      Pato0045: 6844159118620192761
+      Pato0046: 8139483922448193890
+      Pato0047: 6022210274488804212
+      Pato0048: -8777152135559510826
+      Pato0049: 5207384927467862425
+      Pato0050: -7086327713563908685
+      Pato0051: -2667017333721010279
+      Pato0052: -1015746284178628700
+      Pato0053: 6137416089143834999
+      Pato0054: -7095752856371063403
+      Pato0055: -6194971049457389473
+      Pato0056: -5667053689561782547
+      Pato0057: 4966990989400068889
+      Pato0058: 6852849917562349728
+      Pato0059: -9006726355562759621
+      Pato0060: -9006931561223111808
+      Pato0061: 7727682313721923430
+      Pato0062: 5684706183070274897
+      Pato0063: 840152707687072361
+      Pato0064: -5957936206297016463
+      Pato0065: 1073597741749330396
+      Pato0066: 5857122000166864031
+      Pato0067: -8692474085791391779
+      Pato0068: -8629233983772833102
+      Pato0069: -3060096084785799349
+      Pato0070: 369825668179687471
+      Pato0071: -5242024851840296357
+      Pato0072: 7542651338598610283
+      Pato0073: -7196265783700383113
+      Pato0074: 7339169324700603581
+      Pato0075: 747355901669052951
+      Pato0076: -2657488520592878244
+      Pato0077: 5646466000791219666
+      Pato0078: -3261162100975385885
+      Pato0079: -2357741546560398256
+      Pato0080: -7359314476079174832
+      Pato0081: 4640579653001339508
+      Pato0082: -2346727963169785709
+      Pato0083: 5856472710312285030
+      Pato0084: 7330203778398011943
+      Pato0085: -1633950053858213261
+      Pato0086: -7150263751445389105
+      Pato0087: -4892715417118751879
+      Pato0088: -5742711387939652564
+      Pato0089: 1549192175121007257
+      Pato0090: -6407629939896079077
+      Pato0091: -7742493744828717862
+      Pato0092: -7518848401416276444
+      Pato0093: -5876913934724004804
+      Pato0094: 5351829404876270809
+      Pato0095: -7594239201830028139
+      Pato0096: -4415798526312123217
+      Pato0097: 487654793790601696
+      Pato0098: 7014921059728970360
+      Pato0099: -1878560072451023706
+      Pato0100: 5542467287546260950
+      Pato0101: -2865275989764086600
+      Pato0102: -7413880370231717632
+      Pato0103: 7247633859749682014
+      Pato0104: 3347751728266705235
+      Pato0105: 6154607418264499821
+      Pato0106: 4457019012949009850
+      Pato0107: -7490859327488842599
+      Pato0108: -6148000864215541827
+      Pato0109: 1860995337136496089
+      Pato0110: -8106725109691847213
+      Pato0111: -5241437078902912572
+      Pato0112: 772307678647333259
+      Pato0113: -8314954507158417399
+      Pato0114: 7137196299867272305
+      Pato0115: -1131900352181830607
+      Pato0116: -6318556239400548245
+      Pato0117: -6878305302856251636
+      Pato0118: -6678160854522020577
+      Pato0119: 181113209616242270
+      Pato0120: 3893300093118141232
+      Pato0121: 2821574282556770359
+      Pato0122: -8454027040179311431
+      Pato0123: 2866392006615371739
+      Pato0124: 4606396588759305169
+      Pato0125: -9052161180190845251
+      Pato0126: 7765165330022808606
+      Pato0127: 2561576419323135057
+      Pato0128: -8757615604649727120
+      Pato0129: -2713966168165832723
+      Pato0130: 4330603430278121102
+      Pato0131: -4708032872663926376
+      Pato0132: 3309317229481486709
+      Pato0133: 6243620027312009300
+      Pato0134: -802415519923805623
+      Pato0135: -633036066559794677
+      Pato0136: 5660200930795128253
+      Pato0137: -4049756157860186581
+      Pato0138: 1841739449993355598
+      Pato0139: -4950040540747470269
+      Pato0140: -4098376712148930126
+      Pato0141: -6748852426489523207
+      Pato0142: 8187481996312832458
+      Pato0143: 8798457510589104338
+      Pato0144: -6024088615238806739
+      Pato0145: -4489934603584607718
+      Pato0146: 1446358821682532731
+      Pato0147: -39899054484093985
+      Pato0148: 1810177391341827862
+      Pato0149: 6546702157146900321
+      Pato0150: -286689576012169445
+      Pato0151: -669001680614321148
+      Pato0152: -6169480700968288750
+      Pato0153: 542385198887353531
+      Pato0154: 7615772484582269266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
