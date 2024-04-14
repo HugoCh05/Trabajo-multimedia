@@ -1,4 +1,11 @@
-﻿Historia del juego:
+Descripción corta:
+
+ _____ es el nuevo juego de plataformas en 2D en el que el protagonista, el pato Hugo, tiene que superar varios obstáculos y enemigos para poder atender a su familia en un mundo abierto, compuesto por diferentes razas. Estas son los patos, las ranas, las cabras y los zorros. A medida que avanza la historia, aparecen nuevos obstáculos y enemigos, que tendrá que superar Hugo con nuevas mecánicas que introducirá el juego en cada nivel. 
+
+
+
+
+Historia del juego:
 
 
 El pato Hugo pertenece a la familia real. Él era destinado a heredar el trono hasta que su hermano Miguel, que no aguantaba la idea de vivir en la sombra de su hermano mayor, lo traiciona. Éste mata a su padre y le incrimina con la ayuda de sus asistentes más leales. Hugo, que es rechazado por toda la nobleza y su propia familia, se ve obligado a huir de la capital. 
