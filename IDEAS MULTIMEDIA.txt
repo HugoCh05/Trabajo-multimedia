@@ -30,4 +30,13 @@ En medio del caos de la guerra, surgieron héroes y villanos legendarios. Entre 
 Objetivos:  
 
 
-Para la historia principal, queremos llegar a 10.000 euros. Ya que el mundo es enorme y hay mucha exploración. Si se logra obtener 25.000 euros, se hará una expansión (DLC) sobre la guerra. Para esta expansión, se necesita más dinero ya que tiene más contenido (Varias batallas, personajes, países…).
+Para la historia principal, queremos llegar a 10.000 euros. Ya que el mundo es enorme y hay mucha exploración. Si se logra obtener 25.000 euros, se hará una expansión (DLC) sobre la guerra. Para esta expansión, se necesita más dinero ya que tiene más contenido (Varias batallas, personajes, países…). Con 30.000 euros, se hará un modo de juego en el que unicamente el jugador se dedicara a pelear enemigos de manera infinita hasta que no pueda aguantas más, es decir, endeless mode. Por último, si llegamos a 40.000 euros, se aplicara un modo de juego en el que eliges una raza, e inicias una guerra contra otra. Además, se podra formar alizanzas entre paises y habrá distintos tipos de tropas.
+
+Equipo:
+
+Hugo: Director del juego, programador y productor
+Miguel: Productor, artista y concept artist
+Gabriel: Community manager y animador
+Angel: artista, diseñador de sonido y animador
+David: programador, narrador y artista 
+
