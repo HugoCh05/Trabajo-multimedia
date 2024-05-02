@@ -1,6 +1,6 @@
 Descripción corta:
 
- _____ es el nuevo juego de plataformas en 2D en el que el protagonista, el pato Hugo, tiene que superar varios obstáculos y enemigos para poder atender a su familia en un mundo abierto, compuesto por diferentes razas. Estas son los patos, las ranas, las cabras y los zorros. A medida que avanza la historia, aparecen nuevos obstáculos y enemigos, que tendrá que superar Hugo con nuevas mecánicas que introducirá el juego en cada nivel. 
+ _____ es el nuevo juego de plataformas en 2D en el que el protagonista, el pato Hugo, tiene que superar varios obstáculos y enemigos para poder atender a su familia en un mundo abierto, compuesto por diferentes razas. Estas son los patos, las ranas, las cabras y los zorros.  Salta de lado en lado con el pato Hugo, subiendo a alturas extremadamente altas y descubriendo secretos sobre el pasado de este mundo ficcional . Al ser un mundo abierto de gran escala, el jugador tendrá total libertad de explorar cualquier zona que quiera y ver escenarios que no se verían en la historia principal. A medida que avanza la historia, aparecen nuevos obstáculos y enemigos que van aumentando la dificultad de este mundo enorme. Hugo tendrá que superar estos desafíos con nuevas mecánicas que introducirá el juego en cada nivel como doble salto, montar en aliados, invisibilidad… y mucho más.
 
 
 
